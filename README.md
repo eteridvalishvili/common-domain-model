@@ -26,11 +26,11 @@ The CSL specifies [three different contribution roles](https://github.com/finos/
 
 The following Working Groups are currently activated or about to be setup for this project:
 
+* [FINOS CDM Steering Working Group](https://www.finos.org/finos-community-calendar)
 * [Contribution Review Working Group](https://www.finos.org/finos-community-calendar)
-* [Collateral Working Group](https://www.finos.org/finos-community-calendar)
+* [Collateral Working Group](https://www.isda.org/a/jwygE/CDM-for-Collateral-Initiatives-factsheet.pdf)
 * [Technology Architecture Working Group](https://www.finos.org/finos-community-calendar)
 * [Structured Products Working Group](https://www.finos.org/finos-community-calendar)
-* [FINOS CDM Steering Working Group](https://www.finos.org/finos-community-calendar)
 * [ISLA CDM Working Group (Securities Lending)](https://www.islaemea.org/working-groups/)
 * [ISLA CDM Trading Working Group (Securities Lending)](https://www.islaemea.org/working-groups/)
 * [ISLA Document Digitisation Working Group (GMSLA)](https://www.islaemea.org/working-groups/)
