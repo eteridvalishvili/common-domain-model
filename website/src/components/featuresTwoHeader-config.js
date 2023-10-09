@@ -18,9 +18,33 @@ export const featuresTwoHeader = [
             <>
             <br />
             <span style={{ fontSize: '1.25em' }}>The CDM project offers a unique opportunity for members to collaborate and drive industry standards forward in a transparent and inclusive manner.</span>
+            <div className="infographic">
+                <div className="section">
+                    <div className="title">ENHANCE INTEROPERABILITY & STRAIGHT THROUGH PROCESSING</div><br/>
+                    <div className="description">FINOS CDM enables interoperability between systems/services, removing burden of setting up connections to different systems/entities, laying groundwork for STP.</div>
+                </div>
+                <div className="section">
+                    <div className="title">DELIVERS BETTER REGULATORY OVERSIGHT</div><br/>
+                    <div className="description">FINOS CDM promotes transparency and alignment between regulators and market participants.</div>
+                </div>
+                <div className="section">
+                    <div className="title">CREATES AN ENVIRONMENT FOR INNOVATION IN FINANCIAL MARKETS</div><br/>
+                    <div className="description">FINOS CDM will speed up development of new solutions for the market by allowing providers to focus on what they specialize in rather than requiring them to interpret and represent market events and processes individually.</div>
+                </div>
+                <div className="section">
+                    <div className="title">TRANSPARENCY</div><br/>
+                    <div className="description">Access information and eventually real-time reporting.</div>
+                </div>
+                <div className="section">
+                    <div className="title">EFFICIENCY</div><br/>
+                    <div className="description">In policy making and inspection when open standards & open source are used.</div>
+                </div>
+            </div>
             </>
         ),
-    },
+    
+     },       
+ 
     // {
     //     title: <>WHAT IS THE PURPOSE OF THE CDM?</>,
     //     description: (
