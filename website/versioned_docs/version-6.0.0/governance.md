@@ -24,7 +24,7 @@ CDM's main code branch by the CDM Maintainers.
 
 This document provides the governance policy for specifications and other documents developed using the Community Specification process in a repository (each a “Working Group”). Each [Working Group](working-groups.md) must adhere to the requirements.
 
-Click [here](cdm-org-structure.md) to view the diagram showing the Working Groups' organisational structure. 
+Click [here](https://github.com/finos/common-domain-model/blob/master/website/static/img/CDM-Structure-2025.png) to view the diagram showing the Working Groups' organisational structure. 
 
 ### Roles
 
