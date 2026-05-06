@@ -89,8 +89,8 @@ The Steering Working Group has the role of defining major releases of CDM and sh
 
 ## 6. Pull Request Classification and Approval Guidelines
 
-Details on how pull requests will be classified can be found in our [Change control guidelines](change-control-guidelines#pull-request-classification-and-approval-guidelines) page.
+Details on how pull requests will be classified can be found in our [Change control guidelines](https://github.com/finos/common-domain-model/blob/master/docs/change-control-guidelines.md#pull-request-classification-and-approval-guidelines) page.
 
 ## 7. Release Build Approval Guidelines
 
-This section covers scheduling of minor, development, and patch releases, and approvals for all builds and releases. Please click [here](maintenance-and-release#development-release-scheduling-and-approvals) to be redirected.
+This section covers scheduling of minor, development, and patch releases, and approvals for all builds and releases. Please click [here](https://github.com/finos/common-domain-model/blob/master/docs/maintenance-and-release.md#development-release-scheduling-and-approvals) to be redirected.
